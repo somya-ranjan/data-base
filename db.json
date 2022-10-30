@@ -64,6 +64,12 @@
       "email": "somyaranjna@solulab.com",
       "id": 10,
       "status": "blocked"
+    },
+    {
+      "name": "dhairiya",
+      "email": "dhairiya@gmail.com",
+      "status": "blocked",
+      "id": 11
     }
   ]
 }
